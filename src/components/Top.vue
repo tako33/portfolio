@@ -21,7 +21,7 @@ export default {
 
 div.top {
   text-align: center;
-  background-image:url(../assets/forest.jpg);
+  background-image:url("../assets/forest.jpg");
   background-size:cover;
   height:650px;
 }
