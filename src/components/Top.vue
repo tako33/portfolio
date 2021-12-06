@@ -24,6 +24,7 @@ div.top {
   background-image:url(../assets/forest.jpg);
   background-size:cover;
   height:650px;
+  width:100%;
 }
 
 div.content {
